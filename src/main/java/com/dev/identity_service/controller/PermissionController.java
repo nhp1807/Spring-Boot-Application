@@ -6,7 +6,6 @@ import com.dev.identity_service.dto.response.PermissionResponse;
 import com.dev.identity_service.service.PermissionService;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

@@ -1,9 +1,7 @@
 package com.dev.identity_service.controller;
 
 import com.dev.identity_service.dto.request.ApiResponse;
-import com.dev.identity_service.dto.request.PermissionRequest;
 import com.dev.identity_service.dto.request.RoleRequest;
-import com.dev.identity_service.dto.response.PermissionResponse;
 import com.dev.identity_service.dto.response.RoleResponse;
 import com.dev.identity_service.service.PermissionService;
 import com.dev.identity_service.service.RoleService;

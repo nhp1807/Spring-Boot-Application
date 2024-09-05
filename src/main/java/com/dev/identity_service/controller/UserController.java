@@ -4,7 +4,6 @@ import com.dev.identity_service.dto.request.ApiResponse;
 import com.dev.identity_service.dto.request.UserCreationRequest;
 import com.dev.identity_service.dto.request.UserUpdateRequest;
 import com.dev.identity_service.dto.response.UserResponse;
-import com.dev.identity_service.entity.User;
 import com.dev.identity_service.service.UserService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
